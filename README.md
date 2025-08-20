@@ -1,3 +1,6 @@
+# Testado com:
+-Extrato itau
+
 # Analisador de Extrato Bancário em PDF
 
 Este projeto é uma ferramenta em Python para extrair, analisar e visualizar seus gastos a partir de um extrato bancário em formato PDF. Ele utiliza bibliotecas populares como `pdfplumber`, `pandas` e `matplotlib` para automatizar a leitura do PDF, o processamento dos dados e a geração de um gráfico.
